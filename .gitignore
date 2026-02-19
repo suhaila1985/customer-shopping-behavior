@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+env/
+
+# Data files (optional — remove to track data)
+data/customer_shopping_behavior.csv
+data/shopping_data_clean.csv
+
+# Credentials
+*.env
+secrets.py
+
+# Power BI temp files
+~*.pbix
+*.pbix.bak
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# VS Code
+.vscode/
