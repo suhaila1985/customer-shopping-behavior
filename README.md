@@ -243,7 +243,7 @@ Open `reports/Customer_Shopping_Behavior.pbix` in Power BI Desktop. Update the d
 **Fathima Suhaila**
 - 📧 [wcc0207@gmail.com]
 - 💼 [www.linkedin.com/in/fathimasuhaila198]
-- 🐙 [https://github.com/suhaila1985/customer_shopping_behavior]
+- 🐙 [https://github.com/suhaila1985/customer-shopping-behavior]
 
 ---
 
